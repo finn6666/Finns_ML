@@ -1,7 +1,7 @@
 # 🚀 Machine Learning & Programming Journey
 
 ## About Me
-Hi! I'm passionate about **machine learning, programming, and problem-solving**. By day, I work with IT software in the **defense industry**, and by night, I'm dedicated to **Kaggle competitions, LeetCode challenges, and improving my coding skills**. 
+Hi! I'm passionate about **machine learning, programming, and problem-solving**. By day, I work in IT, and by night, I'm dedicated to **Kaggle competitions, LeetCode challenges, and improving my coding skills**. 
 
 ## Interests
 - 🤖 **Machine Learning** – Building pipelines, experimenting with models, and competing on Kaggle.
@@ -9,7 +9,7 @@ Hi! I'm passionate about **machine learning, programming, and problem-solving**.
 - 🛠 **Software Development** – Exploring Python, SQL (PostgreSQL), and general programming concepts.
 - 📊 **Data Science & AI** – Passionate about real-world ML applications and making sense of data.
 
-## What I'm Working On
+## What I've been working on
 - 🎯 **Kaggle Titanic Challenge** – Improving preprocessing pipelines and model accuracy.
-- 💡 **LeetCode Daily Challenges** – Deeply breaking down problems for long-term understanding.
+- 💡 **LeetCode Daily Challenges** – Tackling Python and PostgreSQL challanges
 - 🔧 **PostgreSQL Learning** – Gaining confidence with databases for future projects.
